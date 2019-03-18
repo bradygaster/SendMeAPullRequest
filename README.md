@@ -8,3 +8,5 @@ Feel free to fork this repository, edit this file, and submit pull requests to g
 And please, make changes below the line below, and thanks for not submitting anything NSFW. 
 
 ---- 
+
+Add Rust client for SignalR!
